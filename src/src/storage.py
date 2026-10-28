@@ -1,4 +1,0 @@
-# Member A: Data Storage
-
-def save_clean_data(df, output_path):
-    df.to_csv(output_path, index=False)
