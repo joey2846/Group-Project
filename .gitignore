@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local source data and Kaggle credentials
+data/
+*.xlsx
+.kaggle/
+kaggle.json
